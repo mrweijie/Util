@@ -1,4 +1,4 @@
-package socket;
+package main.java.socket;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.buffer.ByteBuf;

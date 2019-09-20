@@ -1,4 +1,4 @@
-package GUI.Warehouse;
+package main.java.GUI.Warehouse;
 
 import javax.swing.*;
 import java.awt.*;

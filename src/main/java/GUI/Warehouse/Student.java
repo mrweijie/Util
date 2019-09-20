@@ -1,4 +1,4 @@
-package GUI.Warehouse;
+package main.java.GUI.Warehouse;
 
 public class Student {
     private String name;

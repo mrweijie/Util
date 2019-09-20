@@ -1,4 +1,4 @@
-package GUI.cangku;
+package main.java.GUI.cangku;
 
 import javax.swing.*;
 import java.sql.*;

@@ -1,4 +1,4 @@
-package GUI.WebSocketDemo;
+package main.java.GUI.WebSocketDemo;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.*;

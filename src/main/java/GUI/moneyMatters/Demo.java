@@ -1,4 +1,4 @@
-package GUI.moneyMatters;
+package main.java.GUI.moneyMatters;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,4 +1,4 @@
-package socket;
+package main.java.socket;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;

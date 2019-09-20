@@ -1,4 +1,4 @@
-package socket;
+package main.java.socket;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;

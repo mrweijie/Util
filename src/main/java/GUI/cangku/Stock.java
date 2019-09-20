@@ -1,4 +1,4 @@
-package GUI.cangku;
+package main.java.GUI.cangku;
 
 public class Stock {
     private Integer id;
